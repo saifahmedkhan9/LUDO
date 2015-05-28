@@ -2,7 +2,7 @@
 ---------------------
 Here is a GUI based Snake-Ladder Game.(Two Player)
 
-
+![snapshot](https://github.com/saifahmedkhan9/SNAKE-LADDER-GAME/blob/master/image/snakeladder.JPG)
 
 #TODO
 ------
